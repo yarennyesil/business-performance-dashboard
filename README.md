@@ -1,22 +1,26 @@
-# Business Performance Visualization Dashboard
+# İş Performansı Görselleştirme Dashboard'u 📊
 
-This project visualizes company sales data using Python and Matplotlib.
+Bu proje, bir şirketin yıllık satış verilerini analiz etmek ve görselleştirmek amacıyla Python ve Matplotlib kütüphanesi kullanılarak hazırlanmıştır.
 
-## Monthly Sales Trend
+## Grafik Analizleri
 
-![Monthly Sales](images/monthly_sales.png)
+### 1. Aylık Satış Trendi
+Satışların yıl içindeki değişimini gösteren genel bakış.
+![Aylık Satış](monthly_sales.png)
 
-## Product Sales Comparison
+### 2. Ürün Bazlı Karşılaştırma
+Hangi ürünün ne kadar kazandırdığını gösteren sütun grafiği.
+![Ürün Satışları](product_sales.png)
 
-![Product Sales](images/product_sales.png)
+### 3. Özelleştirilmiş Satış Analizi
+Belirli trendleri vurgulayan stilize edilmiş grafik.
+![Özel Grafik](customized_sales.png)
 
-## Dashboard
+### 4. Satış Dashboard (Genel Özet)
+Tüm verilerin tek bir ekranda toplandığı yönetici özeti.
+![Dashboard](dashboard.png)
 
-![Dashboard](images/dashboard.png)
-
-## Technologies
-
-- Python
-- NumPy
-- Pandas
-- Matplotlib
+## Kullanılan Teknolojiler
+- **Python 3.x**
+- **Matplotlib** (Görselleştirme)
+- **NumPy** (Veri İşleme)
